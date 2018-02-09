@@ -1,0 +1,31 @@
+Sources 2+ are documented in the source code itself
+
+Sources for Part 1 (transform.py)
+
+1. Python documentation site for functions, class info:
+https://docs.python.org/2/library/functions.html
+Also same site for errors, exceptions, etc
+
+2. How to store and parse data table
+https://adesquared.wordpress.com/2013/06/16/using-python-beautifulsoup-to-scrape-a-wikipedia-table/
+
+3. row = row.find_next_sibling()
+http://tinaja.computer/2017/02/18/screenscraping-wikipedia.html
+
+4. {:-2} (because my lines ended in ' !')
+https://pyformat.info/
+
+Sources for Part 2 (clean.py, query.py)
+
+1. Python documentation site for functions, class info:
+https://docs.python.org/2/library/functions.html
+Also same site for errors, exceptions, etc
+
+2. Sort with lambda:
+https://stackoverflow.com/questions/5367582/how-to-sort-by-a-particular-attribute-of-a-class
+
+3. Open file into list:
+https://stackoverflow.com/questions/17569679/python-attributeerror-io-textiowrapper-object-has-no-attribute-split
+
+4. Command line arguments:
+https://www.saltycrane.com/blog/2007/12/how-to-pass-command-line-arguments-to/
