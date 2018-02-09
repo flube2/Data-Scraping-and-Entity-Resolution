@@ -1,0 +1,72 @@
+Adiutori -  American Fiction & Mass Culture
+Ansari -  Foundationz Of Electromagnetism And Modern Physics|American Fiction And Mass Culture|Structural Analysis
+Archias -  Collections And Visual Knowledge In Early Modern Europe|Intro. To Modernism: Past, Future, Exile, Home
+Bailey -  Introduction To Science And Society: Theories And Controversies| Operating Systems
+Bassiri -  Heat And Mass Transfer| Principles Of Ecology
+Bell -  Software Engineering|Art After India|Photo-Lab: The Visual Performance Of Rights
+Bergerwolf -  Building A Web Application| Recent Applications Of Probability & Statistics| Writing & Speaking Chinese I|Advanced Probabilistic Methods In Computer Science|Algorithms For Big Data|Architecture Of The House Through Space And Time|Biomaterialz|Computational Methodz For Biology|Introduction To Filmmaking: Time & Form|Topics In Information Retrieval And Web Search
+Boy -  Hilbert Spaces And Their Applications|Introduction To Filmmaking: Time And Form|Narrative And Immersion
+Brennan -  Intermediate 3D Computer Animation|Astrophysics And Cosmology
+Caliskan -  Electrical Circuits & Signals|Analytic Geometry & Calculus|Melville, Conrad, & The Sea|Statistical Mechanics
+Checkoway -  Getting Emotional: Passionate Theories|Computer Systems Security: Principles & Practice|Intro To Combinatorial Optimization|Topics In Ecology And Evolutionary Biology
+Chudnovsky -  Fracture Mechanics|Foundations Of Electromagnetism And Modern Physics|Intro. To Computation For The Humanities & Social Sciences|Topics In Grounded Language For Robotics
+Clarno -  Chemical Process Design|Intro. To Computation For The Humanities & Social Sciences
+Cranch -  3D Photography & Geometry Processing
+Cui -  The Postcolonial & The Postmodern|Computational Theory Of Molecular Evolution
+Dai -  Introductory Calculus, Part Ii
+Dasgupta -  Cultures & Countercultures: The American Novel After World War Ii| Parallel Computation: Modelz, Algorithms, Limits
+Di Eugenio -  The United States Metropolis|Computational Physics|Fracture Mechanics
+Dunn -  Introduction To Architectural Design
+Eriksson -  Intro To Computation For The Humanities And Social Sciences|Computer Graphics Lab
+Fink -  The Korean War In Color|The Public Intellectual
+Fish -  3D Photography & Geometry Processing|Intro. To Computation For The Humanities And Social Sciences|Intro. To Computer Graphicz|The Foundation Of Living Systems
+Forbes -  Introductory Biochemistry
+Foster -  Mechanics Of Solids|Analytic Geometry & Calculus
+Furman -  Probabilistic Graphical Models| Probabilistic Methods In Computer Science|Art After India|Distributed Computing Through Combinatorial Topology
+Gallik -  Molecular Genetics|Intro. To Computer Graphicz
+Gillet -  Analytic Geometry And Calculus| Data-Driven Vision And Graphics| Pompeii: Art, Architecture, & Archaeology In The Lost City|Algebraic Geometry|Quantum Mechanics
+Gmytrasiewicz -  Topics In Ecology & Evolutionary Biology|Computational Methodz For Biology|Fundamentals Of Computer Systems|Literary Communities
+Hogan -  Operations Research: Probabilistic Models|Computational Theory Of Molecular Evolution|Interdisciplinary Scientific Visualization
+Hummel -  Transport And Biotransport Processes|Introduction To Algorithms And Data Structures|Introductory Calculuz, Part Ii|Introductory Compiler Construction
+Jin -  Hilbert Spaces & Their Applications|Advanced Algorithms Seminar
+Johnson -  Cell & Molecular Biology|Computer Aided Visualization And Design
+Jones -  Filtering And Prediction Of Hidden Markov Models| Partial Differential Equationz|Building Intelligent Robots|The Literary Scholar
+Kanich -  Computer Networks|Accelerated Introduction To Computer Science|Nineteenth-Century British Novel
+Kenyon -  Human Factors & User Interface Design
+Krall -  Nature And Law In American Literature| Nineteenth-Century Britizh Novel|The Postcolonial And The Postmodern
+Kshemkalyani -  Introductory Calculus, Part I| Parallel Computation: Models, Algorithms, Limits|Filtering And Prediction Of Hidden Markov Models
+Lekili -  Introductory Calculus, Part I|Filtering & Prediction Of Hidden Markov Models
+Lillis -  Coding The Matrix: Linear Algebra Through Computer Science Applicationz|Advanced Programming For Digital Art And Literature|Educational Software Seminar|Intro To Computation For The Humanities & Social Sciences|Parallel And Distributed Programming
+Lu -  Crossing The Consumer Chasm By Design| Innovation And Technology Management Ii| The Literary Scholar|Biomaterials|Computational Fluid Dynamics|Models Of Computation|Pattern Recognition And Machine Learning|Temporalities|Writing And Speaking Chineze I
+Lyons -  Cultures And Countercultures: The American Novel After World War Ii| Writing & Speaking German I|Human-Computer Interaction Seminar|Internet And Web Algorithms|Intro. To Sceintific Computing|Reinventions Of Life: Aesthetics, Biopolitics, And The Avant-Gardes
+Marai -  2D Game Engines|Temporalitiez
+Metlushko -  Women'S Voices In Medieval Literature|Mathematical Statistics|Melville, Conrad, And The Sea|Stem Cell Engineering
+Mojab -  Intro. To Power Engineering|Individual Independent Study
+Ozevin -  Transport & Biotransport Processes|Fundamentals Of Computer Systems|Honors Linear Algebra|Intro. To Scientific Computing & Problem Solving
+Rao -  Collections & Visual Knowledge In Early Modern Europe|Combinatorial Topology|Independent Study In 2D Game Engines|Touring The Empire: Travel Literature And The Idea Of America
+Reddy -  Reinventions Of Life: Aesthetics, Biopolitics, And The Avant-Gardes|Altered Statez|Quantum Mechanics
+Reed -  Thermodynamics|Introduction To Discrete Structures & Probability
+Sauerwald -  American Poetry Ii: Modernism| The Postcolonial And The Postmodern|Computer Systems Security: Principles And Practice|Computer Vision|Pattern Recognition & Machine Learning|Talking With Computers|Topics In Information Retrieval & Web Search|Writing And Speaking Chinese I
+Savar -  Fieldwork In The Urban Community|Computational Topology|Intellectual Life & Culture In The Post-Western World
+Shonfeld -  Heat & Mass Transfer|Computer Aided Visualization & Design|Medical Bioinformatics
+Siber -  Cell & Molecular Biology| Reading & Research|3D Photography
+Sinapova -  Intro To Computational Geometry|The Claims Of Fiction
+Sistla -  Intro. To Power Engineering| Pompeii: Art, Architecture, And Archaeology In The Lost City|Algorithmic Foundations Of Computational Biology|Database Management Systems|Dynamics & Vibrations|El Greco And Velazquez|Intro. To Computer Graphics|Molecular Genetics
+Sloan -  Introduction To Computational Linguistics
+Soheili -  Shakespeare|Biophysical And Bioinorganic Chemistry
+Solworth -  Mechanics Of Solids|Intro. To Computation For The Humanities And Social Sciences|Nineteenth-Century Architecture
+Tafti -  Managerial Decision Making| Recent Applications Of Probability & Statistics| Topics In Game-Theoretic Artificial Intelligence|Advanced Programming For Digital Art & Literature|Introduction To Scientific Computing|The Design & Analysis Of Trading Agents|Topics In Data Science
+Taylor -  Biophysical & Bioinorganic Chemistry|The Aesthetics Of Color: History, Theory, Critique
+Theys -  Foundationz Of Electromagnetism And Modern Physics| Principles Of Ecology| Virtual Citizens Or Subjects? The Global Battle Over Governing Your Internet|Cinematic Coding And Narrativity|Distributed Computing Through Combinatorial Topology|Introduction To Algorithms & Data Structures|Inventing The Past: Amulets, Heirlooms, Monuments, Landscapes
+Troy -  Computer Aided Visualization And Design| The Design And Analysis Of Trading Agents|Introductory Compiler Construction
+Valbonesi -  Computer Vizion
+Vamanan -  Data-Driven Vizion And Graphics|Complex Function Theory|Dynamics And Vibrations
+Velebit -  Transport And Biotransport Processes|Advanced Programming For Digital Art And Literature|Autonomous Agents And Computational Market Design|Reinventionz Of Life: Aesthetics, Biopolitics, And The Avant-Gardes
+Vinella -  Topics In Computer Vision|Intro To Combinatorial Optimization|Software System Design
+Walden -  Hilbert Spaces & Their Applications| Special Topicz In Advanced Algorithms| Topics In Ecology And Evolutionary Biology|Back To The Future: Nostalgia & Futurity In Contemporary Sci-Fi Tv & Telefantasy|Environmental History|Human Factors And User Interface Design|Interdisciplinary Scientific Visualization|Introduction To Systems Programming|Topics In 3D Game Engine Development
+Westland -  Probabilistic Graphical Models|Introductory Calculuz, Part Ii|Melville, Conrad, & The Sea|Narrative And Immersion|Projects In Engineering Design|Victorian Inequality
+Wolak -  Descartes' World|American Fiction & Mass Culture
+Wolfson -  Data-Driven Vizion And Graphics|Database Management Systems
+Yu -  Altered States| Computers And Human Values| Special Topics In Advanced Algorithms|Applied Artifical Intelligence
+Ziebart -  Machine Learning Reading Group|Intro. To Number Theory
+Zuck -  Statistical Inference Ii|Basic Physics
