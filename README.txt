@@ -33,14 +33,14 @@ I opened and read from the file
 I split professors and courses
 
 Issue: When I split it also split the courses with  '-' in their titles, resulting in me losing any appended data
-Solution: After splitting I checked if there was a pair[2] and is so added it back to the first part of course list
+Solution: After splitting I checked if there was a pair[2] and if so, added it back to the first part of course list
 
 I parsed the names to get all of the last names
 Then I parsed courses, and stored data in a list of my custom Professor objects
 I implemented command line arguments
 
 Current known issues:
-If a course list for a professor has 2 or more hyphens in the title, all data after the second '-' would be lost
+If a course list for a professor has 2 or more hyphens in the title, all data after the second '-' will be lost
 
 
 
